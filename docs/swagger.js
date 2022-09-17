@@ -17,7 +17,7 @@ const swaggerDefinition = {
       url: "http://localhost:3001/api",
     },
     {
-      url: "https://floating-shelf-51853.herokuapp.com/api",
+      url: "http://localhost:3001/api",
     },
   ],
   components: {
