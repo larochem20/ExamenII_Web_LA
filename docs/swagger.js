@@ -17,7 +17,7 @@ const swaggerDefinition = {
       url: "http://localhost:3001/api",
     },
     {
-      url: "http://localhost:3001/api",
+      url: "https://examen-web-200.herokuapp.com/api",
     },
   ],
   components: {
